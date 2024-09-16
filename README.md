@@ -20,4 +20,4 @@ I am going to use the required technologies in the following ways.
 + **React** - Provides login, use of React for routing and components, and more once development integration has been solidified.
 + **Service** - Backend service with endpoints for login and more once development integration has been solidified.
 + **DB/Login** - Store users and user info in database. Register and login users. Credentials securely stored in database. Can't interact with application unless authenticated.
-+ **WebSocket** - a user can host a game, which allows other users to join and participate in real-time
++ **WebSocket** - a user can host a game, which allows other users to join and participate in real-time. Lane data from all users is used to formulate lane data
