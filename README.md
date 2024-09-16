@@ -11,11 +11,12 @@ If you're like me and love the sport of bowling, you are well acquainted with th
 + Provide an additional UI for the host which will allow edits to the game immediately.
 + An interactive UI that allows the user to input their score, starting position, arrow thrown over, and contact point with each throw with real-time calculatory suggestions.
 + The ability to update, calculate, and display average stats
++ The ability to calculate the oil layout of the lane by analyzing the users(') inputs
 + Additional features upon actualization
 ### Technologies
 I am going to use the required technologies in the following ways.
 + **HTML** - Uses correct HTML structure for application. Five HTML pages. One for login, user, game creation, game admin, and game home
-+ **CSS** - Application styling that looks good on different screen sizes, uses good whitespace, color choice, and contrast.
++ **CSS** - Application styling that looks good on different screen sizes, uses good whitespace, color choice, contrast, highlighted marking assist, and bowling animations.
 + **React** - Provides login, use of React for routing and components, and more once development integration has been solidified.
 + **Service** - Backend service with endpoints for login and more once development integration has been solidified.
 + **DB/Login** - Store users and user info in database. Register and login users. Credentials securely stored in database. Can't interact with application unless authenticated.
